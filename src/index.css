@@ -9,6 +9,8 @@
   padding: 0;
 }
 
+/* custom classes */
+
 @layer components {
   .sidebar-icon {
     @apply relative flex items-center justify-center 
