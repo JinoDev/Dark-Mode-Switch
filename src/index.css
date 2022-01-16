@@ -65,7 +65,7 @@
   }
 
   .text {
-    @apply ml-20 mr-10 mt-24 mb-40 py-14 px-24
+    @apply ml-20 mr-10 mt-40 mb-40 py-14 px-24
      h-full leading-10 
     tracking-wide shadow-2xl rounded-xl
     dark:text-gray-200
