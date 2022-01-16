@@ -1,2 +1,2 @@
 
-Demo👽💡 =>     https://jinodev.github.io/Dark-Mode-Switch/
+Demo👽💡 =>     https://johnfrusciante-tributepage.netlify.app/
