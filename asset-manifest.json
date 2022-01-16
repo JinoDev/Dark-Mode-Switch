@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dark-Mode-Switch/static/css/main.62d2c83f.css",
+    "main.js": "/Dark-Mode-Switch/static/js/main.aeae8219.js",
+    "static/js/787.6d8ad3e2.chunk.js": "/Dark-Mode-Switch/static/js/787.6d8ad3e2.chunk.js",
+    "index.html": "/Dark-Mode-Switch/index.html",
+    "main.62d2c83f.css.map": "/Dark-Mode-Switch/static/css/main.62d2c83f.css.map",
+    "main.aeae8219.js.map": "/Dark-Mode-Switch/static/js/main.aeae8219.js.map",
+    "787.6d8ad3e2.chunk.js.map": "/Dark-Mode-Switch/static/js/787.6d8ad3e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62d2c83f.css",
+    "static/js/main.aeae8219.js"
+  ]
+}
