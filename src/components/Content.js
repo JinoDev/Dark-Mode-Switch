@@ -2,7 +2,7 @@ import TopNavigation from './TopNavigation';
 const ContentContainer = () => {
   return (
       
-     <div className="content-container">
+     <div className="content-container h-screen">
          <TopNavigation/>
          <div className="text">
          <h1 className="font-bold mb-8 text-2xl font-sans">Lorem</h1>
